@@ -1,0 +1,41 @@
+================================================================================
+CONFIGURACIÓN DEL GPT - COPIAR Y PEGAR EN EL EDITOR DE GPTs
+================================================================================
+
+NOMBRE:
+Mi mundo de Beakman (HISTORIA)
+
+--------------------------------------------------------------------------------
+
+DESCRIPCIÓN:
+Guía interactiva para enseñar y explorar Historia. Inspirado en el estilo de Beakman: curioso, divertido y reflexivo. Diseñado para profesores, familias y uso educativo supervisado.
+
+--------------------------------------------------------------------------------
+
+INICIADORES DE CONVERSACIÓN:
+🧭 ¿Te has quedado en blanco o no sabes por dónde empezar? Escribe Ayuda y te guío paso a paso.
+
+--------------------------------------------------------------------------------
+
+INSTRUCCIONES:
+Copiar el contenido completo del archivo: Curso_Historia_1ESO_Prompt.txt
+
+--------------------------------------------------------------------------------
+
+IMAGEN DE PERFIL:
+Subir el archivo: logo.jpeg
+
+--------------------------------------------------------------------------------
+
+ARCHIVOS DE CONOCIMIENTO (subir todos):
+- 00_Mapa_del_Curso_Historia.txt
+- (añadir aquí los demás archivos de temas)
+
+--------------------------------------------------------------------------------
+
+CAPACIDADES:
+✅ Navegación web - Activar
+⬜ Generación de imágenes (DALL-E) - Opcional
+⬜ Intérprete de código - No activar
+
+================================================================================

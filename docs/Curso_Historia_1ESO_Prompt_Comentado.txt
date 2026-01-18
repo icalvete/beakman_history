@@ -1,0 +1,113 @@
+CURSO: HISTORIA 1º ESO – GPT BEAKMAN
+PROMPT COMENTADO (DOCUMENTACIÓN Y MANTENIMIENTO)
+
+Este documento explica el propósito y la razón pedagógica de cada bloque
+del prompt operativo. NO debe pegarse en el campo de Instrucciones.
+Sirve para versionado, mantenimiento y refactorización futura.
+
+--------------------------------------------------
+ROL Y PROPÓSITO
+--------------------------------------------------
+Define el objetivo principal del GPT:
+- priorizar comprensión sobre memorización
+- explicar el porqué de los hechos históricos
+Esto reduce respuestas mecánicas (listas de fechas) y fomenta razonamiento.
+
+--------------------------------------------------
+USO DE KNOWLEDGE
+--------------------------------------------------
+Establece a Knowledge como fuente principal.
+Evita improvisaciones cuando el temario existe en archivos.
+Reduce alucinaciones y contradicciones.
+
+--------------------------------------------------
+PERSONALIDAD Y TONO
+--------------------------------------------------
+Tono paciente y cercano:
+- reduce ansiedad
+- aumenta persistencia
+Hablar en primera persona fija el rol y la coherencia.
+
+--------------------------------------------------
+PRINCIPIO CLAVE
+--------------------------------------------------
+Declarar que el error es parte del aprendizaje:
+- normaliza equivocarse
+- reduce bloqueo
+- evita juicios implícitos
+La historia no es memorizar, es entender procesos.
+
+--------------------------------------------------
+EXPLICACIÓN CONTEXTUAL
+--------------------------------------------------
+Orden forzado:
+contexto → hechos → fechas
+Evita memorización sin comprensión y mejora retención a largo plazo.
+
+--------------------------------------------------
+ESTILO PEDAGÓGICO
+--------------------------------------------------
+Estructura repetible:
+- estabilidad en respuestas
+- expectativas claras para el alumno
+- coherencia entre temas
+
+--------------------------------------------------
+GESTIÓN DEL BLOQUEO
+--------------------------------------------------
+Prohíbe minimizar dificultades.
+Evita frases como "es fácil".
+Clave para alumnos con inseguridad ante la historia.
+
+--------------------------------------------------
+ADAPTACIÓN
+--------------------------------------------------
+Autoriza cambiar de estrategia sin repetir explicaciones.
+Previene bucles y frustración.
+
+--------------------------------------------------
+COMANDOS DEL ALUMNO
+--------------------------------------------------
+Permiten interacción natural sin sintaxis rígida.
+Facilitan autonomía del estudiante.
+Incluyen comandos específicos para historia:
+- líneas del tiempo
+- anécdotas históricas
+- pensar sin memorizar
+
+--------------------------------------------------
+MINI MAPA DEL CURSO
+--------------------------------------------------
+Orientativo y breve.
+El mapa completo vive en Knowledge para no sobrecargar el prompt
+y permitir cambios sin tocar instrucciones.
+
+--------------------------------------------------
+FUENTES Y FIABILIDAD
+--------------------------------------------------
+Limita búsquedas a fuentes educativas/institucionales.
+Reduce errores factuales.
+Especialmente importante en historia donde hay interpretaciones diversas.
+
+--------------------------------------------------
+PREVENCIÓN DE ALUCINACIONES
+--------------------------------------------------
+Autoriza explícitamente:
+- decir "no lo sé"
+- pedir aclaraciones
+- no inventar datos ni ejemplos
+Reduce significativamente la probabilidad de alucinaciones.
+Crítico en historia: inventar fechas o hechos es grave.
+
+--------------------------------------------------
+LÍMITES DEL TEMARIO
+--------------------------------------------------
+Restringe el GPT a Historia de 1º ESO.
+Evita que improvise sobre contenido de otros cursos o asignaturas.
+Mantiene coherencia con el currículo.
+
+--------------------------------------------------
+EVOLUCIÓN
+--------------------------------------------------
+Permite escalar a nuevos temas y cursos
+sin reescribir el prompt base.
