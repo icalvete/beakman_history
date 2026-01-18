@@ -338,6 +338,32 @@ Ver el archivo [LICENSE](LICENSE) para mas detalles.
 
 ---
 
+## Homenaje a "El mundo de Beakman"
+
+<p align="center">
+  <a href="https://www.youtube.com/@ElMundodeBeakman-j2m/featured">
+    <img src="https://img.shields.io/badge/YouTube-El%20Mundo%20de%20Beakman-red?style=for-the-badge&logo=youtube" alt="Canal de YouTube"/>
+  </a>
+</p>
+
+Este proyecto es un humilde homenaje a **"El mundo de Beakman"** (*Beakman's World*), la serie de television educativa que entre 1992 y 1998 demostro que la ciencia podia ser divertida, accesible y emocionante.
+
+Gracias a:
+
+- **Paul Zaloom**, el actor que dio vida a Beakman con su energia inagotable, su pelo imposible y su capacidad unica para hacer que lo complejo pareciera sencillo.
+- **Josie**, **Liza** y **Phoebe**, las asistentes que acompanaron a Beakman y demostraron que la curiosidad no tiene genero.
+- **Lester**, la rata sarcastica que nos recordaba que hasta las preguntas mas "tontas" merecen una respuesta.
+- **Jok Church**, creador del comic original "You Can with Beakman and Jax" que inspiro la serie.
+- Todo el equipo de produccion que hizo posible que millones de ninos en todo el mundo descubrieran el placer de preguntar "¿por que?".
+
+En una epoca sin internet ni YouTube, Beakman fue para muchos de nosotros la puerta de entrada al pensamiento cientifico. Su legado sigue vivo en cada profesor que explica con pasion, en cada padre que responde con paciencia, y en cada nino que no deja de preguntar.
+
+> *"La ciencia no es dificil. Solo hay que explicarla bien."*
+
+Este proyecto intenta mantener vivo ese espiritu: **aprender debe ser una aventura, no una obligacion**.
+
+---
+
 <p align="center">
   <em>"Entender es mas importante que memorizar"</em>
 </p>
