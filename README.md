@@ -194,7 +194,20 @@ El GPT avisara cuando no tenga informacion suficiente en lugar de inventarla.
 
 El GPT cubre el temario de Historia de 1º de la ESO:
 
-(Por definir segun el curriculo oficial)
+| # | Tema |
+|---|------|
+| 00 | Mapa del Curso de Historia |
+| 01 | Que es la Historia |
+| 02 | La Prehistoria |
+| 03 | El Paleolitico |
+| 04 | El Neolitico |
+| 05 | Primeras Civilizaciones |
+| 06 | Mesopotamia |
+| 07 | Egipto |
+| 08 | Grecia Antigua |
+| 09 | Grecia Arcaica |
+| 10 | Grecia Clasica |
+| 11 | Legado de Grecia |
 
 El orden es progresivo: cada tema se apoya en los anteriores.
 
