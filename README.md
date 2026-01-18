@@ -367,3 +367,7 @@ Este proyecto intenta mantener vivo ese espiritu: **aprender debe ser una aventu
 <p align="center">
   <em>"Entender es mas importante que memorizar"</em>
 </p>
+
+<p align="center">
+  <em>"Entender es más importante que acertar"</em>
+</p>
